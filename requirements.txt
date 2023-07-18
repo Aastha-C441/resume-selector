@@ -1,7 +1,6 @@
 docx2txt==0.8
 pandas==1.5.3
 pdfminer3==2018.12.3.0
-Pillow==9.4.0
 Pillow==10.0.0
 plotly==5.9.0
 PyMySQL==1.0.2
