@@ -3,7 +3,7 @@ import datetime
 import io
 import random
 import time
-
+import nltk
 import docx2txt
 
 import pandas as pd
